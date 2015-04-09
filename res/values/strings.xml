@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChangeMyIcon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Cambiar los Iconos</string>
+    <string name="description">icon</string>
+    <string name="blank">Texto</string>
+    <string name="change">change icon</string>
+    <string name="title_activity_edit_icon">Edit_icon</string>
+
+</resources>
